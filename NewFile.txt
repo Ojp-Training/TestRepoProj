@@ -1,0 +1,5 @@
+This is new file 
+
+- Add for staging
+- Commit to Git locally
+- Push the changes to Remote server
